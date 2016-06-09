@@ -41,5 +41,4 @@ class Name
 end
 
 newName = Name.new
-
 newName.generate
