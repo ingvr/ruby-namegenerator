@@ -1,5 +1,15 @@
 # Random Name Generate
 
-5-12 symbols
+4-12 symbols
 
-via https://github.com/egrm/random-name-generator
+To run, please type: ruby script.rb
+
+Examples:
+Tivuobao
+Utoby
+Kiuwaixaiki
+Ydyeka
+Erofoa
+Azujima
+
+Party Hard!
