@@ -1,4 +1,4 @@
-# Random Name Generate
+# Random Name Generator
 
 2-12 symbols
 
@@ -12,6 +12,7 @@ Examples:
 * Utoby
 * Kiuwaixaiki
 * Ydyeka
+* Ree
 * Erofoa
 * Azujima
 * Mayrila
