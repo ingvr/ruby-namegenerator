@@ -16,4 +16,6 @@ Examples:
 * Azujima
 * Mayrila
 
-Party Hard!
+Just Party Hard!
+
+  *<^__
