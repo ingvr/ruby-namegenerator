@@ -1,6 +1,6 @@
 class Name 
   def generate
-    name = Array.new(rand(4..12))
+    name = Array.new(rand(2..12))
     charVowels = ["a", "e", "i", "o", "u", "y"]
     charConsonants = ["b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "w", "x", "z"]
     

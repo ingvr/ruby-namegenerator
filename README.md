@@ -1,6 +1,6 @@
 # Random Name Generate
 
-4-12 symbols
+2-12 symbols
 
 To run, please type: 
 ```shell
