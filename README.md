@@ -5,11 +5,12 @@
 To run, please type: ruby script.rb
 
 Examples:
-Tivuobao
-Utoby
-Kiuwaixaiki
-Ydyeka
-Erofoa
-Azujima
+* Tivuobao
+* Utoby
+* Kiuwaixaiki
+* Ydyeka
+* Erofoa
+* Azujima
+* Mayrila
 
 Party Hard!
