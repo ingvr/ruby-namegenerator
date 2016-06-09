@@ -11,7 +11,7 @@ class Name
       name[0] = charConsonants[rand(charConsonants.length)]
     end
 
-    (1..name.length).each do |index|
+    (1..name.length-1).each do |index|
       if charVowels.include?(name[index-1])
         charNext = rand(0..1)
         if charNext == 0 && charConsonants.include?(name[index-2])
