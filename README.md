@@ -3,8 +3,9 @@
 4-12 symbols
 
 To run, please type: 
-'''shell
+```shell
 ruby script.rb
+```
 
 Examples:
 * Tivuobao
