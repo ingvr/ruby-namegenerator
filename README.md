@@ -19,4 +19,6 @@ Examples:
 
 Just Party Hard!
 
+Big Thanks to https://github.com/egrm/ and his https://github.com/egrm/random-name-generator !
+
   *<^__
