@@ -1,6 +1,6 @@
 class Name 
   def generate
-    puts nameString
+    nameString
   end
 
   private
@@ -41,4 +41,4 @@ class Name
 end
 
 newName = Name.new
-newName.generate
+puts newName.generate
